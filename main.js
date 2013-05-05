@@ -27,7 +27,4 @@ Doors that receive sound, can pass the sound onto their sibling door, and from t
 
 A sound recorcing instrucment could catch all transmitted sounds, and store them by time into a data object. Which then when played back, and listend to by the player, could be heard and repeated.
 
-
-
-
 */
