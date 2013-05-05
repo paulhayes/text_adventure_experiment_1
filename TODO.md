@@ -1,9 +1,7 @@
 TODO
 ====
 
-
-Sensory events
-______________
+Sensory_events
 
 sounds emiited from an item, are transmitted to all other items in the room that have an onHear or onSee method.
 
